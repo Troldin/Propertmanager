@@ -1,0 +1,53 @@
+KONSERWATOR
+
+
+Konserwator dodaje zlecenie dla podwykonawcy:
+1. Konserwator przegląda zlecenia
+2. Konserwator wybiera opcję "dodaj zlecenie"
+3. Konserwator wprowadza opis zlecenia
+4. Konserwator zatwierdza zlecenie do wykonania dla firmy zewnętrznej
+5. System przechowuje informacje o zleceniu
+
+
+WŁAŚCICIEL
+
+Właściciel zmienia cene lokalu:
+1. Właściciel przegląda budynki
+2. Właściciel wyświetla szczegóły
+3. Właściciel przegląda dostępne lokale
+4. Właściciel wybiera lokal
+5. Właściciel wybiera opcję zmiany ceny lokalu
+6. Właściciel zmienia cenę wynajęcia lokalu
+7. System modyfikuje cenę lokalu
+
+Właściciel dodaje lokal:
+1. Właściciel przegląda budynki
+2. Właściciel wyświetla szczegóły
+3. Właściciel przegląda lokale
+4. Właściciel wybiera opcje "dodaj nowy lokal"
+5. Właściciel wprowadza dane do formularza
+6. Właściciel zatwierdza wprowadzone dane
+7. System zapisuje informacje do tabeli lokale
+
+NAJEMCA
+
+Najemca dokonuje płatności:
+1. Najemca przegląda płatności
+2. Najemca wybiera płatność
+3. Najemca dokonuje płatność
+4. System zapisuje informacje o dokonanej płatności w tabeli
+
+ZARZĄDCA
+
+Zarządca dokonuje potwierdzenia płatności:
+1. Zarządca przegląda płatności
+2. Zarządca wybiera płatność
+3. Zarządca zatwierdza dokonanie płatności
+4. System zapisuje informacje o potwierdzonej płatności
+
+Zarządca dodaje umowę najmu
+1. Zarządca przegląda umowy najmu
+2. Zarządca wybiera opcję "dodaj umowę najmu"
+3. Zarządca wybiera lokal, przypisuje mu najemce i dodaje date rozpoczęcia i zakończenia najmu
+4. Zarządca zatwierdza wprowadzone dane
+5. System przechowuje informacje o nowej umowie najmu
